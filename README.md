@@ -9,7 +9,6 @@ This is a simple web application built using Flask and SQLAlchemy for managing a
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -93,3 +92,9 @@ Contributions are welcome! If you have any improvements or new features to add, 
   Feel free to contact us if you have any questions or suggestions.
   
   Thank you for using the Todo App! We hope it helps you stay organized and manage your tasks effectively.
+
+
+  ## Sample Screenshot
+
+![Todo App](Todo-App.png)
+
